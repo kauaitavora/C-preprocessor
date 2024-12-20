@@ -1,7 +1,7 @@
 # C-preprocessor
 
 **Assignment for the Programming Language course** <br>
-Basic C-preprocessor written in rust.
+Basic preprocessor for C programming language written in rust.
 
 ### Functionalities:
 --- 
