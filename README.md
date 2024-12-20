@@ -1,13 +1,11 @@
 # C-preprocessor
 
-<br>**Assignment for the Programming Language course.** <br>
-Basic preprocessor for C programming language written in rust.
-<br> 
-<br>
+This project is an assignment for the Programming Language course in the Computer Science program. It implements a basic preprocessor for the C programming language, written in Rust.
+**It does not aim to replace an actual C preprocessor.**
 
-### Functionalities:
+### Features:
 --- 
   - Remove comments (single-line and multi-line).
   - Expand includes and defines (constants and macros).
-  - Remove brake lines, tabulations and whitespace, always when it's possible.
---- 
+  - Remove unnecessary line brakes, tabulations and whitespace.
+---
