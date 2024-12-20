@@ -1,6 +1,6 @@
 # C-preprocessor
 
-<br>**Assignment for the Programming Language course** <br>
+<br>**Assignment for the Programming Language course.** <br>
 Basic preprocessor for C programming language written in rust.
 <br> 
 <br>
