@@ -2,7 +2,7 @@
 
 ### English
 This project is an assignment for the Programming Language course in the Computer Science program. It implements a basic preprocessor for the C programming language, written in Rust.
-**Note:** It does not aim to replace a full-feature preprocessor.**
+**Note:** It does not aim to replace a full-feature preprocessor.
 
 ### Features:
   1. Remove comments (single-line and multi-line).
