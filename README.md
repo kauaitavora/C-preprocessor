@@ -1,8 +1,7 @@
 # C-preprocessor
 
 ### English
-This project is an assignment for the Programming Language course in the Computer Science program. It implements a basic preprocessor for the C programming language, written in Rust.
-**Note:** It does not aim to replace a full-feature preprocessor.
+This project is an assignment for the Programming Language course in the Computer Science program. It implements a basic preprocessor for the C programming language, written in Rust. <br> **Note:** It does not aim to replace a full-feature preprocessor.
 
 ### Features:
   1. Remove comments (single-line and multi-line).
@@ -12,8 +11,7 @@ This project is an assignment for the Programming Language course in the Compute
 ---
 
 ### Português 
-Projeto da diciplina de Linguagem de Programação do curso de Ciência da Computação. Implementa um pré procesador básico para a linguagem C, escrito em rust.
-**Nota:** Não tem como objetivo substituir um pré processador com recursos completos.  
+Projeto da diciplina de Linguagem de Programação do curso de Ciência da Computação. Implementa um pré procesador básico para a linguagem C, escrito em rust. <br> **Nota:** Não tem como objetivo substituir um pré processador com recursos completos.  
 
 ### Funcionalidades: 
   1. Remove comentários (linha única e multi-linha).
