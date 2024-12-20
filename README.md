@@ -16,4 +16,4 @@ Projeto da diciplina de Linguagem de Programação do curso de Ciência da Compu
 ### Funcionalidades: 
   1. Remove comentários (linha única e multi-linha).
   2. Expande includes e defines (constantes e macros).
-  3. Remove quebras de linha, tabulações e espações em brancos desnecessários.
+  3. Remove quebras de linha, tabulações e espaços em brancos desnecessários.
